@@ -1,6 +1,6 @@
 
 
 rules.onclick = function () {
-      {location.href = "https://codepen.io/kunal28/pen/pobjEoX";}
+      {location.href = "https://lahotikunal.github.io/insurance_f/";}
   
 };
